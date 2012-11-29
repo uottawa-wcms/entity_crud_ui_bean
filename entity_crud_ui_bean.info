@@ -1,0 +1,3 @@
+name = Entity CRUD UI Bean Support
+description = Supports Entity CRUD UI for Beans
+core = 7.x

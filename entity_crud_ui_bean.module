@@ -1,0 +1,5 @@
+<?php
+
+function entity_crud_ui_bean_ctools_plugin_directory($module, $plugin) {
+  return 'plugins/' . $plugin;
+}
